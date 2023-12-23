@@ -4,6 +4,7 @@ Convert the give image into class using inheritance.
 
 - `name` is the property
 - `eat()` is the method
+asdsadas
 
 Property ending with `()` is method. And others are properties.
 
