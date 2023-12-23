@@ -81,5 +81,5 @@ console.log(atmQueue.peek()); // 'John'
 console.log(atmQueue.isEmpty()); // false
 atmQueue.dequeue();
 atmQueue.dequeue();
-console.log(atmQueue.isEmpty()); // true
+console.log(atmQueue.isEmpty()); // trueasdas
 ```
