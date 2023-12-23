@@ -28,4 +28,5 @@ const testData = {
   options: ['Tashkent', 'Amaan', 'Kuwait City', 'Nairobi'],
   correctAnswerIndex: 1,
 };
+console.log("TEST")
 ```
